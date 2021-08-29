@@ -1,6 +1,6 @@
 #  Ma première intégration html/css
 
-Cette intégration que j'ai réalisé est la 1ère que j'ai réalisé en 2017 via une formation de John Taieb.
+Cette intégration que j'ai réalisé en 2017 est ma toute 1ère via une formation de John Taieb (codeur).
 
 L'intégration n'est pas responsive, le but ici est juste de faire connaissance avec l'Html et le css, concevoir une structure de page ayant une bonne sémantique, placer et concevoir les différents éléments.
 
