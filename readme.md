@@ -7,4 +7,4 @@ L'intégration n'est pas responsive, le but ici est juste de faire connaissance 
 Merci à John pour cette formation qui m'a donné envie de me reconvertir. (https://apprendre-a-coder.com/)
 
 
-![page html/css réalisée suite au tuto de John Taieb Codeur](https://github.com/carredamien/travel_agency/blob/master//screenshot-travel-agency.JPG)
+![page html/css réalisée suite au tuto de John Taieb Codeur](https://github.com/carredamien/travel_agency/blob/main/screenshot-travel-agency.JPG)
